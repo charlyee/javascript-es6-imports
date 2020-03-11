@@ -1,0 +1,9 @@
+{
+  "name": "weird-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.mjs",
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
